@@ -1,0 +1,1 @@
+export const CHANGE_SEARCH_FIELD = '_CHANGE_SEARCH_FIELD_';
